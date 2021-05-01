@@ -4,3 +4,7 @@
 Иллюстрация работы программы:
 Пользователь ставит вершины графа
 ![Image 1](illustrations/put_points.png)
+Окно GUI:
+![Image 2](illustrations/gui.png)
+Окно результата Matplotlib:
+![Image 3](illustrations/view_graph.png)
